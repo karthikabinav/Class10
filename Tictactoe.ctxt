@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Tictactoe()
+comment1.params=s
+comment1.target=void\ main([)
+comment10.target=void\ clearscreen()
+comment11.target=void\ rules()
+comment2.target=void\ tournmentMode()
+comment3.target=void\ twoPlayer()
+comment4.target=void\ onePlayer()
+comment5.params=s
+comment5.target=boolean\ validation(String)
+comment6.params=s
+comment6.target=boolean\ validation1(String)
+comment7.params=s
+comment7.target=boolean\ quitGame(String)
+comment8.params=a
+comment8.target=void\ printStatus([)
+comment9.params=temp
+comment9.target=void\ thankYou(int)
+numComments=12

@@ -1,0 +1,7 @@
+class abinav implements test
+{
+  void disp()
+  {
+      System.out.print("hai");
+    }
+}
